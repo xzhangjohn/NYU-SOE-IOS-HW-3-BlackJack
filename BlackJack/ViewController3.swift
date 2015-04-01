@@ -33,6 +33,18 @@ class ViewController3: UIViewController {
         dtotal.hidden = true
         yourbet.hidden = true
         gameover.hidden = true
+        dimage1.hidden = true
+        dimage2.hidden = true
+        dimage3.hidden = true
+        dimage4.hidden = true
+        dimage5.hidden = true
+        dimage6.hidden = true
+        pimage1.hidden = true
+        pimage2.hidden = true
+        pimage3.hidden = true
+        pimage4.hidden = true
+        pimage5.hidden = true
+        pimage6.hidden = true
     }
     
     override func didReceiveMemoryWarning() {
